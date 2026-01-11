@@ -19,10 +19,10 @@ export const metadata: Metadata = {
   description: "Торговля легковыми и грузовыми автомобилями. Пригон из Европы под ключ. ООО Автотрейдинвест, г. Смоленск. Полное сопровождение сделки.",
   icons: {
     icon: [
-      { url: "/icon?v=2", sizes: "32x32", type: "image/png" },
+      { url: "/icon?v=3", sizes: "32x32", type: "image/png" },
     ],
     apple: [
-      { url: "/apple-icon?v=2", sizes: "180x180", type: "image/png" },
+      { url: "/apple-icon?v=3", sizes: "180x180", type: "image/png" },
     ],
   },
   other: {
